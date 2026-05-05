@@ -1,28 +1,11 @@
-<!-- 🔥 CUSTOM BANNER (your name with gradient) -->
+<!-- ===================== HEADER (GRADIENT BANNER) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Zacc%20Munuhe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Zacc%20Munuhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Instrumentation&descAlignY=58&descSize=16"/>
 </p>
 
-<h3 align="center">⚡ Embedded Systems • AI • Instrumentation Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;Microcontroller+Specialist;Solving+Real+World+Problems&center=true&width=600&height=45&color=00C6FF">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;ESP32+%7C+Microcontrollers;Control+%26+Instrumentation;Build+Real+Systems&center=true&width=650&height=48&color=00C6FF&vCenter=true&size=22">
 </p>
-
----
-
-## 🧠 $ whoami
-┌──────────────────────────────────────────────┐
-│ Name : Zacc Munuhe │
-│ Role : Embedded + AI Engineer │
-│ Location : Nairobi, Kenya 🇰🇪 │
-│ Status : ● Building • Learning • Shipping │
-│ Focus : Microcontrollers • AI • Systems │
-└──────────────────────────────────────────────┘
-
----
-
-## 🌐 CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zacc-munuhe-ab4509388">
@@ -38,6 +21,20 @@
 
 ---
 
+## 🧠 $ whoami
+
+
+
+┌──────────────────────────────────────────────┐
+│ Name : Zacc Munuhe │
+│ Role : Embedded + AI Engineer │
+│ Location : Nairobi, Kenya 🇰🇪 │
+│ Status : ● Building • Learning • Shipping │
+│ Focus : ESP32 • Microcontrollers • AI │
+└──────────────────────────────────────────────┘
+
+---
+
 ## ⚙️ TECH ARSENAL
 
 <p align="center">
@@ -45,8 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MicroPython-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CircuitPython-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MicroPython-555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CircuitPython-2ecc71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge"/>
 </p>
 
@@ -55,11 +52,12 @@
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaccmunuhe7-byte&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaccmunuhe7-byte&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaccmunuhe7-byte&layout=compact&theme=tokyonight&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zaccmunuhe7-byte&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=zaccmunuhe7-byte&theme=tokyonight&border_radius=12"/>
 </p>
 
 ---
@@ -72,13 +70,45 @@
 
 ---
 
-## 🚀 PROJECT SHOWCASE
+## 🚀 FEATURED PROJECTS
 
-| Project | Description | Stack |
-|--------|------------|------|
-| 🔌 Embedded System | Smart microcontroller system | C++ / MicroPython |
-| 🤖 AI Tool | Automation / ML system | Python |
-| 🌐 Web Platform | Dashboard / interface | TypeScript |
+<table>
+<tr>
+<td width="50%">
+
+### 🔌 Embedded System
+- Smart ESP32-based system  
+- Sensors + control logic  
+- C++ / MicroPython  
+
+</td>
+<td width="50%">
+
+### 🤖 AI Tool
+- Automation / ML pipeline  
+- Data → decision system  
+- Python  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Dashboard
+- Control + monitoring UI  
+- TypeScript / HTML / CSS  
+
+</td>
+<td width="50%">
+
+### ⚙️ Instrumentation
+- Signal acquisition & control  
+- Real-time data handling  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,11 +122,11 @@ Web Systems ███████░░░░░░ 60%
 
 ## 🧩 PHILOSOPHY
 
-> ⚡ Build systems that solve real problems — not just code that compiles.
+> ⚡ Build systems that solve real-world problems — not just code that compiles.
 
 ---
 
-<!-- 🔥 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
 </p>
+
