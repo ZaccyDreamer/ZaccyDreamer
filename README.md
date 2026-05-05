@@ -48,6 +48,11 @@
 </p>
 
 ---
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaccmunuhe7-byte&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ## 📊 GITHUB ANALYTICS
 
@@ -69,6 +74,11 @@
 </p>
 
 ---
+## 📈 CONTRIBUTIONS
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaccmunuhe7-byte&theme=tokyo-night"/>
+</p>
 
 ## 🚀 FEATURED PROJECTS
 
