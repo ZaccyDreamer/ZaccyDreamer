@@ -1,4 +1,4 @@
-<!-- 🌌 CYBER-TECH GRADIENT BANNER -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=220&section=header&text=Zacc%20Munuhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Instrumentation&descAlignY=58&descSize=16"/>
 </p>
@@ -85,41 +85,21 @@
 
 ## 🚀 FEATURED PROJECTS
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🔌 Embedded System
-- ESP32-based smart system  
-- Sensors + automation  
+<a href="https://github.com/zaccmunuhe7-byte/your-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaccmunuhe7-byte&repo=your-repo-1&theme=tokyonight&border_radius=10"/>
+</a>
 
-</td>
-<td width="50%">
+<a href="https://github.com/zaccmunuhe7-byte/your-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaccmunuhe7-byte&repo=your-repo-2&theme=tokyonight&border_radius=10"/>
+</a>
 
-### 🤖 AI Tool
-- ML-based automation  
-- Decision systems  
+<a href="https://github.com/zaccmunuhe7-byte/your-repo-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaccmunuhe7-byte&repo=your-repo-3&theme=tokyonight&border_radius=10"/>
+</a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Web Dashboard
-- Monitoring interface  
-- TypeScript stack  
-
-</td>
-<td width="50%">
-
-### ⚙️ Instrumentation
-- Signal processing  
-- Real-time control  
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
