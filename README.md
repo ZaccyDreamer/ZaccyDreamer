@@ -24,11 +24,13 @@
 
 ## 🧠 $ whoami
 ┌──────────────────────────────────────────────┐
-│ Name : Zacc Munuhe │
+│<p> Name : Zacc Munuhe │</p>
+<p>
 │ Role : Embedded + AI Engineer │
-│ Location : Nairobi, Kenya 🇰🇪 │
-│ Status : ● Building • Learning • Shipping │
-│ Focus : ESP32 • Microcontrollers • AI │
+  <p>
+│ Location : Nairobi, Kenya 🇰🇪 │ </p>
+│<p> Status : ● Building • Learning • Shipping │</p>
+│<p> Focus : ESP32 • Microcontrollers • AI │</p>
 └──────────────────────────────────────────────┘
 
 ---
