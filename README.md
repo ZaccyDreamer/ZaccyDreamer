@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;Dreamer+%7C+Microcontrollers;Control+%26+Instrumentation&center=true&width=650&height=48&color=00F5FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;Vibe coder+Dreamer+%7C+Microcontrollers;Control+%26+Instrumentation&center=true&width=650&height=48&color=00F5FF&vCenter=true&size=22">
   <img src="https://raw.githubusercontent.com/zaccmunuhe7-byte/zaccmunuhe7-byte/output/snake.svg"/>
 </p>
 
@@ -26,7 +26,7 @@
 ┌──────────────────────────────────────────────┐
 │<p> Name : Zacc Munuhe │</p>
 <p>
-│ Role : Embedded + AI Engineer │
+│ Interest/work: Embedded + AI Engineer +Programming│
   <p>
 │ Location : Nairobi, Kenya 🇰🇪 │ </p>
 │<p> Status : ● Building • Learning • Shipping │</p>
