@@ -5,9 +5,6 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,9 +14,12 @@ jobs:
         with:
           github_user_name: zaccmunuhe7-byte
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: push to branch
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          add: "github-contribution-grid-snake.svg"
+          message: "update snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
