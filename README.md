@@ -1,30 +1,27 @@
-<!-- ===================== HEADER (GRADIENT BANNER) ===================== -->
+<!-- 🔥 ORANGE GRADIENT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Zacc%20Munuhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Instrumentation&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,50:ffb347,100:ff4e00&height=220&section=header&text=Zacc%20Munuhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Instrumentation&descAlignY=58&descSize=16"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;ESP32+%7C+Microcontrollers;Control+%26+Instrumentation;Build+Real+Systems&center=true&width=650&height=48&color=00C6FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;ESP32+%7C+Microcontrollers;Control+%26+Instrumentation&center=true&width=650&height=48&color=FF7E00&vCenter=true&size=22">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zacc-munuhe-ab4509388">
-    <img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:zaccmunuhe7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff4b2b?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/zaccmunuhe7-byte">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 ## 🧠 $ whoami
-
-
-
 ┌──────────────────────────────────────────────┐
 │ Name : Zacc Munuhe │
 │ Role : Embedded + AI Engineer │
@@ -42,27 +39,30 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MicroPython-555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CircuitPython-2ecc71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MicroPython-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CircuitPython-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESP32-orange?style=for-the-badge"/>
 </p>
 
 ---
+
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaccmunuhe7-byte&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zaccmunuhe7-byte&theme=onedark&no-frame=true&margin-w=12&margin-h=12&row=1&column=6"/>
 </p>
+
+---
 
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaccmunuhe7-byte&show_icons=true&theme=tokyonight&border_radius=12"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaccmunuhe7-byte&layout=compact&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaccmunuhe7-byte&show_icons=true&theme=gruvbox&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaccmunuhe7-byte&layout=compact&theme=gruvbox&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=zaccmunuhe7-byte&theme=tokyonight&border_radius=12"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=zaccmunuhe7-byte&theme=gruvbox&border_radius=12"/>
 </p>
 
 ---
@@ -74,11 +74,14 @@
 </p>
 
 ---
+
 ## 📈 CONTRIBUTIONS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaccmunuhe7-byte&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaccmunuhe7-byte&theme=react-dark"/>
 </p>
+
+---
 
 ## 🚀 FEATURED PROJECTS
 
@@ -87,17 +90,16 @@
 <td width="50%">
 
 ### 🔌 Embedded System
-- Smart ESP32-based system  
-- Sensors + control logic  
+- ESP32-based smart system  
+- Sensors + automation  
 - C++ / MicroPython  
 
 </td>
 <td width="50%">
 
 ### 🤖 AI Tool
-- Automation / ML pipeline  
-- Data → decision system  
-- Python  
+- ML-based automation  
+- Data → decision pipeline  
 
 </td>
 </tr>
@@ -106,15 +108,15 @@
 <td width="50%">
 
 ### 🌐 Web Dashboard
-- Control + monitoring UI  
+- Monitoring interface  
 - TypeScript / HTML / CSS  
 
 </td>
 <td width="50%">
 
 ### ⚙️ Instrumentation
-- Signal acquisition & control  
-- Real-time data handling  
+- Signal processing  
+- Real-time control systems  
 
 </td>
 </tr>
@@ -137,6 +139,5 @@ Web Systems ███████░░░░░░ 60%
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,100:ff4e00&height=120&section=footer"/>
 </p>
-
