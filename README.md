@@ -66,13 +66,11 @@
 </p>
 
 ---
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaccmunuhe7-byte/zaccmunuhe7-byte/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/zaccmunuhe7-byte/zaccmunuhe7-byte/actions/workflows/snake.yml/badge.svg"/>
 </p>
-
 ---
 
 ## 📈 CONTRIBUTIONS
