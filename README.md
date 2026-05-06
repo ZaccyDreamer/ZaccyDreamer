@@ -105,10 +105,10 @@
 ---
 
 ## 📈 ENGINEERING ROADMAP
-Embedded Systems ███████████░░ 85%
-AI / Machine Learning ████████░░░░░ 65%
-Control Systems ████████░░░░░ 70%
-Web Systems ███████░░░░░░ 60%
+<p>Embedded Systems ███████████░░ 85%
+<p>AI / Machine Learning ████████░░░░░ 65%</p>
+<p>Control Systems ████████░░░░░ 70% </p>
+<p>Web Systems ███████░░░░░░ 60% </p>
 
 ---
 
