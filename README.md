@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 $ whoami
+## 🧠 $ ABOUT ME 
 ┌──────────────────────────────────────────────┐
 │<p> Name : Zacc Munuhe │</p>
 <p>
@@ -111,8 +111,15 @@
 <p>Web Systems ███████░░░░░░ 60% </p>
 
 ---
+## 🧩MY INNOVATIONS
+<p>Built a smart packing system using rasperry pi pico w,ultrasonics(hc-sro4)buzzers,rfids and rgbs
+  <ul>The systems was intergrated to a smart system dispayed on phone for payments.
+    <p>Built a tomography array sensors replacing the traditional dht models temperature sensors.
+      <p>Built a modern  radar and counter attack for  millitary security measures using sevor motors,pico w,ir sensors and many other componets for counter attacks.
+<p>BuilT a web for:peniel prizac investment </p>
 
-## 🧩 PHILOSOPHY
+
+## 🧩MY PHILOSOPHY
 
 > ⚡ Build systems that solve real-world problems — not just code that compiles.
 
