@@ -45,8 +45,23 @@
   <img src="https://img.shields.io/badge/MicroPython-00F5FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CircuitPython-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ESP32-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTOS-ff6f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-6a11cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux%20Troubleshooting-00c853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
+---
+
+### 🧠 Core Skills
+- Embedded system design & microcontroller programming  
+- Real-time systems (RTOS basics)  
+- Linux installation, configuration & troubleshooting  
+- Sensor integration & hardware interfacing  
+- System-level debugging
+- BEST in RUST
+
+---
 ---
 
 ## 🏆 ACHIEVEMENTS & TROPHIES 
