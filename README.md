@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS & TROPHIES 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zaccmunuhe7-byte&theme=matrix&no-frame=true&margin-w=12&margin-h=12"/>
