@@ -91,11 +91,9 @@ Focus Areas:
 ---
 
 ## 🏆 ACHIEVEMENTS & TROPHIES
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaccyDreamer&theme=matrix&no-frame=true&margin-w=12&margin-h=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZaccyDreamer&theme=radical&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
-
 ---
 
 ## 📊 GITHUB ANALYTICS
