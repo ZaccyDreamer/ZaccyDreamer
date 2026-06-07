@@ -1,15 +1,46 @@
-## 🧠 ABOUT ME
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=220&section=header&text=Zacc%20Munuhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%20%7C%20Instrumentation&descAlignY=58&descSize=16"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Engineer;AI+Builder;Dreamer+%7C+Microcontrollers;Control+%26+Instrumentation&center=true&width=650&height=48&color=00F5FF&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zacc-munuhe-ab4509388">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:zaccmunuhe7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/ZaccyDreamer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZaccyDreamer&label=Profile%20Views&color=6a11cb&style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 $ ABOUT ME
 
 ```text
-┌──────────────────────────────────────────────────┐
-│ Name      : Zacc Munuhe                         │
-│ Alias     : ZaccyDreamer                        │
-│ Role      : Embedded Systems & AI Engineer      │
-│ Location  : Nairobi, Kenya 🇰🇪                   │
-│ Status    : Building • Learning • Shipping      │
-│ Focus     : ESP32 • AI • Rust • Instrumentation │
-│ Interests : RTOS • Linux • Embedded Systems     │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│ Name     : Zacc Munuhe                       │
+│ Alias    : ZaccyDreamer                      │
+│ Role     : Embedded + AI Engineer            │
+│ Location : Nairobi, Kenya 🇰🇪                 │
+│ Status   : ● Building • Learning • Shipping  │
+│ Focus    : ESP32 • Microcontrollers • AI     │
+└──────────────────────────────────────────────┘
 ```
 
 ---
@@ -32,16 +63,30 @@
 
 ### 🧠 Core Skills
 
-* Embedded Systems Design
-* ESP32 Development
-* Rust Programming
-* C++ Development
-* TypeScript Development
-* Linux Installation & Troubleshooting
-* RTOS Fundamentals
-* Sensor Integration & Hardware Interfacing
-* System-Level Debugging
+* Embedded system design & microcontroller programming
+* Real-time systems (RTOS basics)
+* Linux installation, configuration & troubleshooting
+* Sensor integration & hardware interfacing
+* System-level debugging
+* Rust systems programming
 * Control & Instrumentation Engineering
+
+---
+
+## 🎓 EDUCATION
+
+**University of Nairobi**
+
+Bachelor of Science in Technology Education
+(Control & Instrumentation Engineering)
+
+Focus Areas:
+
+* Embedded Systems
+* Instrumentation
+* Control Systems
+* Artificial Intelligence
+* Linux Systems
 
 ---
 
@@ -82,24 +127,45 @@
 
 ---
 
+## 🚀 FEATURED PROJECTS
+
+<p align="center">
+
+<a href="https://github.com/ZaccyDreamer/your-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaccyDreamer&repo=your-repo-1&theme=tokyonight&border_radius=10"/>
+</a>
+
+<a href="https://github.com/ZaccyDreamer/your-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaccyDreamer&repo=your-repo-2&theme=tokyonight&border_radius=10"/>
+</a>
+
+<a href="https://github.com/ZaccyDreamer/your-repo-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaccyDreamer&repo=your-repo-3&theme=tokyonight&border_radius=10"/>
+</a>
+
+</p>
+
+---
+
 ## 📈 ENGINEERING ROADMAP
 
 ```text
-Embedded Systems         ███████████░░   85%
-AI / Machine Learning    ████████░░░░░   65%
-Control Systems          ████████░░░░░   70%
-Web Development          ███████░░░░░░   60%
-Linux & Systems          ████████░░░░░   70%
-Rust Programming         █████████░░░░   75%
+Embedded Systems        ███████████░░ 85%
+AI / Machine Learning   ████████░░░░░ 65%
+Control Systems         ████████░░░░░ 70%
+Web Systems             ███████░░░░░░ 60%
 ```
 
 ---
 
 ## 🧩 MY INNOVATIONS
 
-* Smart parking system using Raspberry Pi Pico W, HC-SR04 ultrasonic sensors, RFID authentication, RGB indicators, and mobile payment integration.
-* Experimental tomography sensor array for environmental monitoring and measurement systems.
-* Prototype radar and security surveillance system using Pico W, IR sensors, servo motors, and automated tracking concepts.
+* Built a smart parking system using Raspberry Pi Pico W, HC-SR04 ultrasonic sensors, RFID authentication, RGB indicators and mobile payment integration.
+
+* Built a tomography sensor array as an alternative sensing architecture for temperature monitoring experiments.
+
+* Built a prototype radar and surveillance system using Pico W, servo motors, IR sensors and automated tracking concepts.
+
 * Developed a business website for Peniel Prizac Investment.
 
 ---
@@ -108,5 +174,8 @@ Rust Programming         █████████░░░░   75%
 
 > ⚡ Build systems that solve real-world problems — not just code that compiles.
 
-```
-```
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0f2027&height=120&section=footer"/>
+</p>
