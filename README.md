@@ -119,29 +119,39 @@ Focus Areas:
 
 ## 📈 CONTRIBUTIONS
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaccyDreamer&theme=react-dark"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaccyDreamer&theme=react-dark" width="100%" alt="GitHub contribution activity graph"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-<p align="center">
-
-<a href="https://github.com/ZaccyDreamer/your-repo-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaccyDreamer&repo=your-repo-1&theme=tokyonight&border_radius=10"/>
-</a>
-
-<a href="https://github.com/ZaccyDreamer/your-repo-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaccyDreamer&repo=your-repo-2&theme=tokyonight&border_radius=10"/>
-</a>
-
-<a href="https://github.com/ZaccyDreamer/your-repo-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaccyDreamer&repo=your-repo-3&theme=tokyonight&border_radius=10"/>
-</a>
-
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ZaccyDreamer/UNMTA">UNMTA</a></h3>
+      <p>A lightweight website for the University of Nairobi Microprocessor Technology Association.</p>
+      <p><sub>HTML · CSS · JavaScript</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ZaccyDreamer/CONNECT-ALL-ALUMNI">Connect All Alumni</a></h3>
+      <p>A full-stack alumni networking platform for profiles, connections, messaging, and community posts.</p>
+      <p><sub>React · TypeScript · Node.js · Express · PostgreSQL</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ZaccyDreamer/peniel_web">Peniel Prizac</a></h3>
+      <p>A website for Peniel Prizac Investment, a land buying and selling company serving customers across Kenya.</p>
+      <p><a href="https://github.com/ZaccyDreamer/peniel_web">View repository →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
