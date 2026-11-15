@@ -1,51 +1,65 @@
-<div align="center">
+<!-- ===================== NEON ENGINEERING HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:12385a,100:522b88&height=230&section=header&text=Zacc%20Munuhe&fontSize=54&fontColor=eaf7ff&animation=fadeIn&fontAlignY=37&desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20Robotics%20%7C%20Control%20%26%20Instrumentation&descAlignY=61&descSize=15&descColor=8cecff" alt="Zacc Munuhe — embedded systems, AI and robotics portfolio banner" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:12385a,70:30206e,100:6a11cb&height=230&section=header&text=Zacc%20Munuhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20Robotics%20%7C%20Control%20%26%20Instrumentation&descAlignY=59&descSize=15&descColor=00f5ff" alt="Animated neon navy and purple banner for Zacc Munuhe, embedded systems and robotics student" width="100%" />
+</p>
 
-### `ZaccyDreamer` · Engineering student & builder
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=48&lines=Embedded+Systems+%7C+Microcontrollers;AI%2FML+%7C+Robotics+%7C+Automation;Control+%26+Instrumentation+Engineering;Building+ideas+from+hardware+to+software" alt="Animated introduction: embedded systems, AI, robotics, control and instrumentation" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3200&pause=900&color=62E6FF&center=true&vCenter=true&width=720&height=38&lines=Exploring+embedded+systems+and+microcontrollers;Building+software+for+real-world+problems;Learning+AI%2FML%2C+robotics+and+control;Prototyping+ideas+from+hardware+to+the+web" alt="Rotating introduction: embedded systems, software, AI, robotics and prototyping" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg" alt="Animated snake moving across ZaccyDreamer's GitHub contribution grid" width="100%" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZaccyDreamer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacc-munuhe-ab4509388)
-[![Email](https://img.shields.io/badge/Email-6D3FD1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaccmunuhe7@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=ZaccyDreamer&label=PROFILE%20VIEWS&color=13b8d4&style=for-the-badge)](https://github.com/ZaccyDreamer)
-[![Followers](https://img.shields.io/github/followers/ZaccyDreamer?label=FOLLOWERS&style=for-the-badge&color=2463a6&logo=github)](https://github.com/ZaccyDreamer?tab=followers)
+<p align="center">
+  <a href="https://github.com/ZaccyDreamer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/zacc-munuhe-ab4509388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="mailto:zaccmunuhe7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zacc Munuhe" /></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZaccyDreamer&label=PROFILE%20VIEWS&color=6a11cb&style=for-the-badge" alt="Profile views counter" />
+  <a href="https://github.com/ZaccyDreamer?tab=followers"><img src="https://img.shields.io/github/followers/ZaccyDreamer?label=FOLLOWERS&style=for-the-badge&color=00bcd4&logo=github" alt="GitHub follower count" /></a>
+</p>
 
 ---
 
-## About
+<h2 align="center">🧠 <code>$ whoami</code> — ABOUT ME</h2>
 
-```text
-┌─ PROFILE ───────────────────────────────────────────────────────┐
-│  Name       Zacc Munuhe                                         │
-│  Handle     ZaccyDreamer                                        │
-│  Based in   Kenya                                               │
-│  Studying   BSc Microprocessor Technology, Control &            │
-│             Instrumentation — University of Nairobi, Year 2     │
-│  Interests  Embedded systems · AI/ML · robotics · instrumentation│
-└─────────────────────────────────────────────────────────────────┘
-```
+<div align="center"><pre>
+┌────────────────────────────────────────────────┐
+│ Name       : Zacc Munuhe                       │
+│ Alias      : ZaccyDreamer                      │
+│ Location   : Kenya 🇰🇪                          │
+│ Institution: University of Nairobi             │
+│ Programme  : BSc Microprocessor Technology,    │
+│              Control and Instrumentation       │
+│ Level      : Second year                       │
+│ Status     : ● Learning • Building • Exploring │
+│ Focus      : Embedded • AI/ML • Robotics       │
+└────────────────────────────────────────────────┘
+</pre></div>
 
-I am a second-year University of Nairobi student exploring how software and electronics work together. My interests span microcontrollers, sensors, robotics, control systems, Linux, and full-stack development. I enjoy learning by building, testing ideas, and improving prototypes over time.
-
-> **Build systems that solve real-world problems — not just code that compiles.**
-
-## Technical toolkit
-
-Tools below reflect a mix of hands-on use and active learning; the labels distinguish current practice from areas I am still exploring.
-
-### Programming languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,ts,html,css&theme=dark" alt="C, C++, Python, Rust, JavaScript, TypeScript, HTML and CSS" />
+<p align="center">
+  I am a second-year University of Nairobi student interested in how software, electronics and control systems come together to solve practical problems. I learn by exploring concepts, building prototypes and documenting what I discover.
 </p>
 
-### Embedded systems · actively exploring and building
+<p align="center"><b>⚡ Build systems that solve real-world problems — not just code that compiles.</b></p>
 
-<p>
+---
+
+<h2 align="center">⚙️ TECH ARSENAL</h2>
+
+<p align="center"><b>Project stacks documented in my repositories</b><br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,postgres,git,github&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express, PostgreSQL, Git and GitHub" />
+</p>
+
+<p align="center"><b>Programming languages · study and exploration</b><br />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust&theme=dark" alt="C, C++, Python and Rust — study and exploration" />
+</p>
+
+<p align="center"><b>Embedded systems · boards and development environments</b><br />
   <img src="https://img.shields.io/badge/ESP32-172554?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico%20%2F%20Pico%20W-c51a4a?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico and Pico W" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
@@ -55,147 +69,190 @@ Tools below reflect a mix of hands-on use and active learning; the labels distin
   <img src="https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge" alt="FreeRTOS — learning area" />
 </p>
 
-### Software development · tools used across projects
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,postgres,git,github&theme=dark" alt="React, Vite, Node.js, Express, PostgreSQL, Git and GitHub" />
+<p align="center"><b>AI/ML · robotics · engineering interests</b><br />
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-6A11CB?style=for-the-badge&logoColor=white" alt="Artificial intelligence and machine learning interests" />
+  <img src="https://img.shields.io/badge/Robotics%20%26%20Automation-243B70?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics and automation interests" />
+  <img src="https://img.shields.io/badge/Control%20%26%20Instrumentation-00AFC1?style=for-the-badge&logoColor=white" alt="Control and instrumentation" />
+  <img src="https://img.shields.io/badge/Sensors%20%26%20Electronics-25314A?style=for-the-badge&logoColor=white" alt="Sensors, electronics and hardware interfacing" />
 </p>
 
-### Operating systems and tools
-
-<p>
+<p align="center"><b>Operating systems and tools</b><br />
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode&theme=dark" alt="Linux, Ubuntu and Visual Studio Code" />
   <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=111827" alt="Parrot OS" />
   <img src="https://img.shields.io/badge/Arduino%20IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/OpenSCAD-f9d72c?style=for-the-badge&logoColor=111827" alt="OpenSCAD" />
 </p>
 
-### Engineering practice · developing through coursework and prototypes
+---
 
-`Sensors & actuators` · `Hardware interfacing` · `Control systems` · `Instrumentation` · `Robotics` · `Electronics prototyping`
+<h2 align="center">🧠 CORE SKILLS &amp; FOCUS AREAS</h2>
 
-### Learning next
+<p align="center">
+  <img src="https://img.shields.io/badge/Microcontroller%20Programming-0B7285?style=flat-square&logoColor=white" alt="Microcontroller programming" />
+  <img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-6A11CB?style=flat-square&logoColor=white" alt="Sensors and actuators" />
+  <img src="https://img.shields.io/badge/Hardware%20Interfacing-25314A?style=flat-square&logoColor=white" alt="Hardware interfacing" />
+  <img src="https://img.shields.io/badge/Control%20Systems-0B7285?style=flat-square&logoColor=white" alt="Control systems" />
+  <img src="https://img.shields.io/badge/Instrumentation-6A11CB?style=flat-square&logoColor=white" alt="Instrumentation" />
+  <img src="https://img.shields.io/badge/Linux%20Systems-25314A?style=flat-square&logo=linux&logoColor=white" alt="Linux systems" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-0B7285?style=flat-square&logoColor=white" alt="Full-stack software development" />
+</p>
 
-`ESP-IDF` · `FreeRTOS` · `Autonomous robotics` · `Applied machine learning` · `Reliable control and measurement`
+<p align="center"><sub>Focus areas reflect coursework, project work and active learning; they are not professional certifications or proficiency ratings.</sub></p>
 
-## Selected work
+---
 
-<table>
+<h2 align="center">🎓 EDUCATION &amp; LEADERSHIP</h2>
+
+<p align="center">
+  <b>University of Nairobi</b><br />
+  Bachelor of Science in Microprocessor Technology, Control and Instrumentation<br />
+  <b>Second year</b>
+</p>
+
+<p align="center"><b>University of Nairobi Microprocessor Technology Association (UNMTA)</b><br />
+  First-Year Representative · Secretary-General
+</p>
+
+<p align="center"><sub>Verified certifications, workshops and technical-event milestones will be added as they are completed.</sub></p>
+
+---
+
+<h2 align="center">🏆 ACHIEVEMENTS &amp; TROPHIES</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZaccyDreamer&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies for ZaccyDreamer" width="100%" />
+</p>
+
+<p align="center"><sub>Trophies are generated from GitHub activity. Personal milestones are listed above only when verified.</sub></p>
+
+---
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <a href="https://github.com/ZaccyDreamer"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ZaccyDreamer&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5&icon_color=9b8cff" alt="GitHub statistics including commits, stars and pull requests" /></a>
+  <a href="https://github.com/ZaccyDreamer"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaccyDreamer&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5" alt="Most-used programming languages across public repositories" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZaccyDreamer"><img height="170" src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=00F5FF&fire=9B8CFF&currStreakLabel=00F5FF&sideLabels=D8E7F5&dates=93A4B8" alt="GitHub contribution streak for ZaccyDreamer" /></a>
+</p>
+
+<p align="center"><sub>Cards show dynamic public GitHub data and depend on their hosting services.</sub></p>
+
+---
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg" alt="Animated snake visualization of ZaccyDreamer's GitHub contribution grid" width="100%" />
+</p>
+
+---
+
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <a href="https://github.com/ZaccyDreamer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaccyDreamer&bg_color=0b1220&color=d8e7f5&line=00d9ff&point=9b8cff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" /></a>
+</p>
+
+---
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/UNMTA">UNMTA website</a></h3>
-      <p>A lightweight static website for the University of Nairobi Microprocessor Technology Association. The repository describes a plain HTML, CSS and JavaScript implementation.</p>
-      <p><a href="https://unmta.vercel.app">Live site</a> · <a href="https://github.com/ZaccyDreamer/UNMTA">Source code</a></p>
+      <p>A lightweight static website for the University of Nairobi Microprocessor Technology Association, built with plain HTML, CSS and JavaScript.</p>
+      <p><a href="https://unmta.vercel.app">Live website</a> · <a href="https://github.com/ZaccyDreamer/UNMTA">Repository</a></p>
       <p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/DreamOpps-Intelligence">DreamOpps Intelligence</a></h3>
-      <p>A student opportunity discovery project with searchable listings, eligibility context, explainable matching, saved items, and an application tracker. Current project documentation describes an MVP with demo records and no live opportunity feeds.</p>
-      <p><a href="https://github.com/ZaccyDreamer/DreamOpps-Intelligence">Source code</a> · Development project</p>
+      <p>A student opportunity-discovery MVP with searchable listings, eligibility context, explainable matching, saved items and an application tracker. Documentation identifies its records as demonstrations; it has no live opportunity feeds.</p>
+      <p><a href="https://github.com/ZaccyDreamer/DreamOpps-Intelligence">Repository</a> · Development project</p>
       <p><sub>React · Vite · TypeScript · Express · PostgreSQL · Prisma</sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/CONNECT-ALL-ALUMNI">Connect All Alumni</a></h3>
-      <p>Alumni networking platform listed in my previous profile. Repository details and current status should be confirmed from its README.</p>
+      <p>An alumni-networking project. See the repository for the current feature set, implementation details and status.</p>
       <p><a href="https://github.com/ZaccyDreamer/CONNECT-ALL-ALUMNI">Repository</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/peniel_web">Peniel Prizac</a></h3>
-      <p>Business website project listed in my previous profile. See the repository for current implementation and project details.</p>
+      <p>A business website project for Peniel Prizac Investment. See the repository for current implementation details.</p>
       <p><a href="https://github.com/ZaccyDreamer/peniel_web">Repository</a></p>
     </td>
   </tr>
 </table>
 
-## Engineering bench
+---
 
-These are hands-on project areas described in my existing portfolio. Their scope and maturity vary; I am continuing to document implementation details, schematics, and demonstrations as they are ready to share.
+<h2 align="center">📡 ENGINEERING ROADMAP</h2>
 
-| Project area | Current direction |
-| --- | --- |
-| Smart parking prototype | Raspberry Pi Pico W, ultrasonic sensing, RFID access, and indicator systems. |
-| Temperature tomography experiments | Exploring a sensor-array approach to temperature monitoring. |
-| Radar and surveillance prototype | Microcontroller-based sensing and servo scanning concepts. |
-| ESP32 electronics | Display, buzzer, LED, and web-interface experiments. |
-| Autonomous robotics | Exploring ESP32 control, motor drivers, ultrasonic sensing, and servo actuation. |
+<p align="center"><sub>A learning sequence, not a percentage-based proficiency score.</sub></p>
 
-## Education & leadership
+<div align="center"><pre>
+┌────────────────────────────────────────────────────────────────┐
+│ EMBEDDED SYSTEMS       [ EXPLORE ] → [ LEARN ] → [ BUILD ]     │
+│ AI / MACHINE LEARNING  [ EXPLORE ] → [ LEARN ] → [ APPLY ]     │
+│ ROBOTICS & AUTOMATION  [ EXPLORE ] → [ PROTOTYPE ] → [ TEST ]  │
+│ CONTROL & INSTRUMENT.  [ STUDY ]   → [ MEASURE ] → [ CONTROL ] │
+│ ELECTRONICS            [ DESIGN ]  → [ PROTOTYPE ] → [ REFINE ]│
+│ SOFTWARE ENGINEERING   [ DESIGN ]  → [ IMPLEMENT ] → [ SHIP ] │
+└────────────────────────────────────────────────────────────────┘
+</pre></div>
 
-**University of Nairobi** · Bachelor of Science in Microprocessor Technology, Control and Instrumentation · **Second year**
+---
 
-**University of Nairobi Microprocessor Technology Association (UNMTA)**
+<h2 align="center">🧩 MY INNOVATIONS &amp; PROTOTYPE AREAS</h2>
 
-- First-Year Representative
-- Secretary-General
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🅿️ Smart parking</h3>
+      <p>Raspberry Pi Pico W concept combining ultrasonic vehicle sensing, RFID access and indicator systems.</p>
+      <sub>Prototype area · implementation details and demonstrations in progress</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🌡️ Temperature tomography</h3>
+      <p>Sensor-array experiments exploring an alternative approach to temperature monitoring.</p>
+      <sub>Experimental work</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📡 Radar and surveillance</h3>
+      <p>Microcontroller sensing and servo-scanning concepts for a radar-style prototype.</p>
+      <sub>Prototype area · concepts under development</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 Robotics and ESP32 electronics</h3>
+      <p>Exploring sensors, motor drivers, displays, buzzers, LEDs, servo actuation and web-connected interfaces.</p>
+      <sub>Experiments and learning projects</sub>
+    </td>
+  </tr>
+</table>
 
-I will add verified certifications, workshops, technical events, and other milestones here as they are earned and documented.
+<p align="center"><sub>Project photos, circuit diagrams and demonstrations will be linked here when verified materials are ready.</sub></p>
 
-## Engineering roadmap
+---
 
-| Area | Focus |
-| --- | --- |
-| Embedded systems | Microcontroller fundamentals, peripheral interfaces, and dependable firmware |
-| AI and machine learning | Practical applications for sensing and engineering workflows |
-| Robotics | Integrating sensors, actuation, and autonomy |
-| Control systems | Measurement, feedback, and system behavior |
-| Electronics and instrumentation | Prototyping, sensor interfaces, and careful measurement |
-| Software engineering | Building maintainable tools and full-stack applications |
+<h2 align="center">💡 MY PHILOSOPHY</h2>
 
-## Currently building toward
+<p align="center"><i>⚡ Build systems that solve real-world problems — not just code that compiles.</i></p>
 
-- More embedded experiments with ESP32 and Raspberry Pi Pico boards.
-- Robotics prototypes that connect sensing, control, and actuation.
-- Applied AI/ML ideas for engineering problems.
-- Software tools that support practical student and community needs.
-- Better project documentation, diagrams, and demonstrations.
+---
 
-## GitHub dashboard
+<p align="center">
+  <a href="https://github.com/ZaccyDreamer">Explore my repositories</a> ·
+  <a href="https://www.linkedin.com/in/zacc-munuhe-ab4509388">Connect on LinkedIn</a> ·
+  <a href="mailto:zaccmunuhe7@gmail.com">Email me</a>
+</p>
 
-<div align="center">
-
-<a href="https://github.com/ZaccyDreamer"><img height="175" src="https://github-readme-stats.vercel.app/api?username=ZaccyDreamer&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0b1220&title_color=62e6ff&text_color=d8e7f5&icon_color=9b8cff" alt="GitHub statistics for ZaccyDreamer, including stars and commits" /></a>
-<a href="https://github.com/ZaccyDreamer"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaccyDreamer&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0b1220&title_color=62e6ff&text_color=d8e7f5" alt="Most-used programming languages across public repositories" /></a>
-
-<a href="https://github.com/ZaccyDreamer"><img src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=62E6FF&fire=9B8CFF&currStreakLabel=62E6FF&sideLabels=D8E7F5&dates=93A4B8" alt="GitHub contribution streak for ZaccyDreamer" /></a>
-
-<a href="https://github.com/ZaccyDreamer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaccyDreamer&bg_color=0b1220&color=d8e7f5&line=42c8e8&point=9b8cff&area=true&hide_border=true" alt="Recent GitHub contribution activity graph" width="100%" /></a>
-
-</div>
-
-Stats, language usage, streaks, and activity are generated by their respective services and may reflect public activity and service availability.
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZaccyDreamer&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies and achievements for ZaccyDreamer" width="100%" />
-
-</div>
-
-GitHub achievements and trophies are shown dynamically when supported by the service. Personal milestones are listed above only when verified.
-
-## Contribution trail
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg" alt="Animated snake visualization of ZaccyDreamer's GitHub contribution grid" width="100%" />
-
-</div>
-
-## Connect
-
-I’m interested in collaborating on practical projects involving embedded devices, sensors, robotics, and useful software.
-
-- GitHub: [@ZaccyDreamer](https://github.com/ZaccyDreamer)
-- LinkedIn: [Zacc Munuhe](https://www.linkedin.com/in/zacc-munuhe-ab4509388)
-- Email: [zaccmunuhe7@gmail.com](mailto:zaccmunuhe7@gmail.com)
-
-<div align="center">
-<sub>Curious by design · Building one experiment at a time</sub>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:522b88,55:12385a,100:07111f&height=110&section=footer" alt="Decorative navy and violet footer banner" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,45:30206e,100:07111f&height=125&section=footer" alt="Animated purple and deep navy footer banner" width="100%" />
+</p>
