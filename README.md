@@ -1,15 +1,11 @@
 <!-- ===================== NEON ENGINEERING HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:12385a,70:30206e,100:6a11cb&height=230&section=header&text=Zacc%20Munuhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20Robotics%20%7C%20Control%20%26%20Instrumentation&descAlignY=59&descSize=15&descColor=00f5ff" alt="Animated neon navy and purple banner for Zacc Munuhe, embedded systems and robotics student" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:12385a,70:30206e,100:6a11cb&height=205&section=header&text=Zacc%20Munuhe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20Robotics%20%7C%20Control%20%26%20Instrumentation&descAlignY=61&descSize=14&descColor=62f5ff" alt="Animated neon navy, cyan and purple banner introducing Zacc Munuhe" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=48&lines=Embedded+Systems+%7C+Microcontrollers;AI%2FML+%7C+Robotics+%7C+Automation;Control+%26+Instrumentation+Engineering;Building+ideas+from+hardware+to+software" alt="Animated introduction: embedded systems, AI, robotics, control and instrumentation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg" alt="Animated snake moving across ZaccyDreamer's GitHub contribution grid" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3200&pause=900&color=62F5FF&center=true&vCenter=true&width=760&height=52&lines=Embedded+Systems+%7C+Microcontrollers;AI%2FML+%7C+Robotics+%7C+Automation;Control+%26+Instrumentation+Engineering;Building+ideas+from+hardware+to+software" alt="Animated JetBrains Mono introduction to embedded systems, AI, robotics and instrumentation" width="100%" />
 </p>
 
 <p align="center">
@@ -28,17 +24,18 @@
 <h2 align="center">🧠 <code>$ whoami</code> — ABOUT ME</h2>
 
 <div align="center"><pre>
-┌────────────────────────────────────────────────┐
-│ Name       : Zacc Munuhe                       │
-│ Alias      : ZaccyDreamer                      │
-│ Location   : Kenya 🇰🇪                          │
-│ Institution: University of Nairobi             │
-│ Programme  : BSc Microprocessor Technology,    │
-│              Control and Instrumentation       │
-│ Level      : Second year                       │
-│ Status     : ● Learning • Building • Exploring │
-│ Focus      : Embedded • AI/ML • Robotics       │
-└────────────────────────────────────────────────┘
+┌────────────────────────────────────┐
+│ Name       : Zacc Munuhe           │
+│ Alias      : ZaccyDreamer          │
+│ Location   : Kenya                 │
+│ Institution: University of Nairobi │
+│ Programme  : BSc Microprocessor    │
+│              Technology, Control   │
+│              and Instrumentation   │
+│ Level      : Second year           │
+│ Status     : Learning • Building   │
+│ Focus      : Embedded • AI/ML      │
+└────────────────────────────────────┘
 </pre></div>
 
 <p align="center">
@@ -120,7 +117,7 @@
 <h2 align="center">🏆 ACHIEVEMENTS &amp; TROPHIES</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZaccyDreamer&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies for ZaccyDreamer" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ZaccyDreamer&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub profile trophies for ZaccyDreamer, shown in up to four columns and two rows" width="100%" /></a>
 </p>
 
 <p align="center"><sub>Trophies are generated from GitHub activity. Personal milestones are listed above only when verified.</sub></p>
@@ -129,16 +126,18 @@
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-<p align="center">
-  <a href="https://github.com/ZaccyDreamer"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ZaccyDreamer&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5&icon_color=9b8cff" alt="GitHub statistics including commits, stars and pull requests" /></a>
-  <a href="https://github.com/ZaccyDreamer"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaccyDreamer&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5" alt="Most-used programming languages across public repositories" /></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/ZaccyDreamer"><img width="100%" height="195" src="https://github-readme-stats-phi.vercel.app/api?username=ZaccyDreamer&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5&icon_color=9b8cff" alt="Public GitHub statistics for ZaccyDreamer; open the profile if this card is unavailable" /></a></td>
+    <td width="50%" align="center"><a href="https://github.com/ZaccyDreamer?tab=repositories"><img width="100%" height="195" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=ZaccyDreamer&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5" alt="Most-used languages in public repositories; open repositories if this card is unavailable" /></a></td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/ZaccyDreamer"><img height="170" src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=00F5FF&fire=9B8CFF&currStreakLabel=00F5FF&sideLabels=D8E7F5&dates=93A4B8" alt="GitHub contribution streak for ZaccyDreamer" /></a>
+  <a href="https://github.com/ZaccyDreamer"><img height="195" src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=00F5FF&fire=9B8CFF&currStreakLabel=00F5FF&sideLabels=D8E7F5&dates=93A4B8" alt="Public GitHub contribution streak for ZaccyDreamer" /></a>
 </p>
 
-<p align="center"><sub>Cards show dynamic public GitHub data and depend on their hosting services.</sub></p>
+<p align="center"><sub>Cards summarize public repository data and may be briefly unavailable when their hosts are rate-limited. Private contribution access is not configured.</sub></p>
 
 ---
 
@@ -153,8 +152,10 @@
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <a href="https://github.com/ZaccyDreamer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaccyDreamer&bg_color=0b1220&color=d8e7f5&line=00d9ff&point=9b8cff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" /></a>
+  <a href="https://github.com/ZaccyDreamer"><img src="https://ghchart.rshah.org/00d9ff/ZaccyDreamer" alt="GitHub contribution activity heatmap for ZaccyDreamer; select to open the GitHub profile" width="100%" /></a>
 </p>
+
+<p align="center"><sub>This compact contribution heatmap is a live fallback for the unavailable activity graph service.</sub></p>
 
 ---
 
@@ -165,26 +166,28 @@
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/UNMTA">UNMTA website</a></h3>
       <p>A lightweight static website for the University of Nairobi Microprocessor Technology Association, built with plain HTML, CSS and JavaScript.</p>
-      <p><a href="https://unmta.vercel.app">Live website</a> · <a href="https://github.com/ZaccyDreamer/UNMTA">Repository</a></p>
-      <p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
+      <p><a href="https://unmta.vercel.app">Live website · verified</a> · <a href="https://github.com/ZaccyDreamer/UNMTA">Repository</a></p>
+      <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=111827" alt="JavaScript" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/DreamOpps-Intelligence">DreamOpps Intelligence</a></h3>
-      <p>A student opportunity-discovery MVP with searchable listings, eligibility context, explainable matching, saved items and an application tracker. Documentation identifies its records as demonstrations; it has no live opportunity feeds.</p>
-      <p><a href="https://github.com/ZaccyDreamer/DreamOpps-Intelligence">Repository</a> · Development project</p>
-      <p><sub>React · Vite · TypeScript · Express · PostgreSQL · Prisma</sub></p>
+      <p>A student opportunity-discovery MVP with searchable listings, eligibility context, explainable matching, saved items and an application tracker. Its included records are fictional demonstrations; there are no live opportunity feeds.</p>
+      <p><a href="https://github.com/ZaccyDreamer/DreamOpps-Intelligence">Repository</a> · MVP / development project</p>
+      <p><a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" /></a> <a href="https://vite.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" /></a> <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-111827?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" /></a> <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/CONNECT-ALL-ALUMNI">Connect All Alumni</a></h3>
-      <p>An alumni-networking project. See the repository for the current feature set, implementation details and status.</p>
-      <p><a href="https://github.com/ZaccyDreamer/CONNECT-ALL-ALUMNI">Repository</a></p>
+      <p>An alumni networking application project centered on profiles, finding shared school or workplace connections, posts and messaging. See its repository for current implementation details.</p>
+      <p><a href="https://github.com/ZaccyDreamer/CONNECT-ALL-ALUMNI">Repository</a> · Development project</p>
+      <p><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" /></a> <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" /></a> <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></a> <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/ZaccyDreamer/peniel_web">Peniel Prizac</a></h3>
-      <p>A business website project for Peniel Prizac Investment. See the repository for current implementation details.</p>
-      <p><a href="https://github.com/ZaccyDreamer/peniel_web">Repository</a></p>
+      <p>A static website for Peniel Prizac Investment, a land sales company in Kenya. The repository contains the site pages, styles and property photographs.</p>
+      <p><a href="https://github.com/ZaccyDreamer/peniel_web">Repository</a> · Website project</p>
+      <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" /></a></p>
     </td>
   </tr>
 </table>
@@ -193,17 +196,17 @@
 
 <h2 align="center">📡 ENGINEERING ROADMAP</h2>
 
-<p align="center"><sub>A learning sequence, not a percentage-based proficiency score.</sub></p>
+<p align="center"><sub>EXPLORE → LEARN → BUILD → TEST → ADVANCE · a learning sequence, not a percentage-based score.</sub></p>
 
 <div align="center"><pre>
-┌────────────────────────────────────────────────────────────────┐
-│ EMBEDDED SYSTEMS       [ EXPLORE ] → [ LEARN ] → [ BUILD ]     │
-│ AI / MACHINE LEARNING  [ EXPLORE ] → [ LEARN ] → [ APPLY ]     │
-│ ROBOTICS & AUTOMATION  [ EXPLORE ] → [ PROTOTYPE ] → [ TEST ]  │
-│ CONTROL & INSTRUMENT.  [ STUDY ]   → [ MEASURE ] → [ CONTROL ] │
-│ ELECTRONICS            [ DESIGN ]  → [ PROTOTYPE ] → [ REFINE ]│
-│ SOFTWARE ENGINEERING   [ DESIGN ]  → [ IMPLEMENT ] → [ SHIP ] │
-└────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────┐
+│ EMBEDDED SYSTEMS  EXPLORE > LEARN > BUILD │
+│ AI / MACHINE LEARNING  EXPLORE > LEARN    │
+│ ROBOTICS / AUTOMATION  BUILD > TEST       │
+│ CONTROL / INST.  LEARN > MEASURE          │
+│ ELECTRONICS  LEARN > BUILD > TEST         │
+│ SOFTWARE ENGINEERING  LEARN > BUILD       │
+└───────────────────────────────────────────┘
 </pre></div>
 
 ---
@@ -254,5 +257,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,45:30206e,100:07111f&height=125&section=footer" alt="Animated purple and deep navy footer banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,45:30206e,100:07111f&height=125&section=footer&animation=fadeIn" alt="Animated purple and deep navy footer banner" width="100%" />
 </p>
