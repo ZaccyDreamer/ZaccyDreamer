@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg" alt="Animated snake visualization of ZaccyDreamer's GitHub contribution grid" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ZaccyDreamer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/zacc-munuhe-ab4509388"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="mailto:zaccmunuhe7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zacc Munuhe" /></a>
@@ -114,17 +118,13 @@
 
 ---
 
-<h2 align="center">🏆 ACHIEVEMENTS &amp; TROPHIES</h2>
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ZaccyDreamer&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub profile trophies for ZaccyDreamer, shown in up to four columns and two rows" width="100%" /></a>
-</p>
-
-<p align="center"><sub>Trophies are generated from GitHub activity. Personal milestones are listed above only when verified.</sub></p>
+<p align="center">The official GitHub Profile Trophy image service is currently unavailable: its endpoint returns HTTP 402 with <code>DEPLOYMENT_DISABLED</code>. <a href="https://github.com/ZaccyDreamer">View ZaccyDreamer’s GitHub profile and contributions</a>.</p>
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -133,18 +133,14 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/ZaccyDreamer"><img height="195" src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=00F5FF&fire=9B8CFF&currStreakLabel=00F5FF&sideLabels=D8E7F5&dates=93A4B8" alt="Public GitHub contribution streak for ZaccyDreamer" /></a>
-</p>
-
 <p align="center"><sub>Cards summarize public repository data and may be briefly unavailable when their hosts are rate-limited. Private contribution access is not configured.</sub></p>
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/output/snake.svg" alt="Animated snake visualization of ZaccyDreamer's GitHub contribution grid" width="100%" />
+  <a href="https://github.com/ZaccyDreamer"><img src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=00F5FF&fire=9B8CFF&currStreakLabel=00F5FF&sideLabels=D8E7F5&dates=93A4B8" alt="Public GitHub contribution streak for ZaccyDreamer; select to open the GitHub profile" /></a>
 </p>
 
 ---
@@ -155,7 +151,7 @@
   <a href="https://github.com/ZaccyDreamer"><img src="https://ghchart.rshah.org/00d9ff/ZaccyDreamer" alt="GitHub contribution activity heatmap for ZaccyDreamer; select to open the GitHub profile" width="100%" /></a>
 </p>
 
-<p align="center"><sub>This compact contribution heatmap is a live fallback for the unavailable activity graph service.</sub></p>
+<p align="center"><sub>Contribution activity heatmap, displayed separately from statistics, languages, streak and trophies.</sub></p>
 
 ---
 
