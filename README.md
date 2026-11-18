@@ -1,7 +1,7 @@
 <!-- ===================== NEON ENGINEERING HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:12385a,70:30206e,100:6a11cb&height=205&section=header&text=Zacc%20Munuhe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20Robotics%20%7C%20Control%20%26%20Instrumentation&descAlignY=61&descSize=14&descColor=62f5ff" alt="Animated neon navy, cyan and purple banner introducing Zacc Munuhe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07111f,35:12385a,70:30206e,100:6a11cb&amp;height=205&amp;section=header&amp;text=Zacc%20Munuhe&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Embedded%20Systems%20%7C%20AI%2FML%20%7C%20Robotics%20%7C%20Control%20%26amp%3B%20Instrumentation&amp;descAlignY=61&amp;descSize=14&amp;descColor=62f5ff" alt="Animated neon navy, cyan and purple banner introducing Zacc Munuhe" width="100%" />
 </p>
 
 <p align="center">
