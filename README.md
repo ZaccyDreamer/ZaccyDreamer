@@ -120,7 +120,9 @@ Just Interested in software, electronics and control systems coming  together to
 
 <h2 align="center">🏆 GITHUB TROPHIES</h2>
 
-<p align="center">The official GitHub Profile Trophy image service is currently unavailable: its endpoint returns HTTP 402 with <code>DEPLOYMENT_DISABLED</code>. <a href="https://github.com/ZaccyDreamer">View ZaccyDreamer’s GitHub profile and contributions</a>.</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/ZaccyDreamer/github-profile-trophy/master/assets/trophy.svg" alt="GitHub profile trophies for ZaccyDreamer, generated weekly from public activity" width="100%" /></a>
+</p>
 
 ---
 
