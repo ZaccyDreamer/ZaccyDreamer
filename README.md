@@ -126,24 +126,15 @@ Just Interested in software, electronics and control systems coming  together to
 
 ---
 
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center"><a href="https://github.com/ZaccyDreamer"><img width="100%" height="195" src="https://github-readme-stats-phi.vercel.app/api?username=ZaccyDreamer&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5&icon_color=9b8cff" alt="Public GitHub statistics for ZaccyDreamer; open the profile if this card is unavailable" /></a></td>
-    <td width="50%" align="center"><a href="https://github.com/ZaccyDreamer?tab=repositories"><img width="100%" height="195" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=ZaccyDreamer&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0b1220&title_color=00f5ff&text_color=d8e7f5" alt="Most-used languages in public repositories; open repositories if this card is unavailable" /></a></td>
-  </tr>
-</table>
+<p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/performance.svg" alt="GitHub performance card for ZaccyDreamer with stars, commits from the last 365 days, public pull requests and issues, repositories contributed to, followers, and a calculated grade" width="100%" /></p>
 
-<p align="center"><sub>Cards summarize public repository data and may be briefly unavailable when their hosts are rate-limited. Private contribution access is not configured.</sub></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/contributions.svg" alt="ZaccyDreamer's actual GitHub contributions in the last 365 days, current consecutive-day streak, and longest streak" width="100%" /></p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/languages.svg" alt="Most-used languages by byte share across ZaccyDreamer's public, non-fork repositories" width="100%" /></p>
 
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
-
-<p align="center">
-  <a href="https://github.com/ZaccyDreamer"><img src="https://streak-stats.demolab.com?user=ZaccyDreamer&hide_border=true&border_radius=12&background=0B1220&ring=00F5FF&fire=9B8CFF&currStreakLabel=00F5FF&sideLabels=D8E7F5&dates=93A4B8" alt="Public GitHub contribution streak for ZaccyDreamer; select to open the GitHub profile" /></a>
-</p>
+<p align="center"><sub>The grade follows the <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">GitHub Readme Stats rank formula</a>: weighted exponential CDFs for commits, pull requests, issues and reviews, plus log-normal approximations for stars and followers. The circle shows 100 minus the formula's rank percentile; repositories contributed to are shown as a separate statistic. Contribution totals and streaks use GitHub's contribution calendar. Language shares use byte totals from owned, public, non-fork repositories. These cards refresh daily from the GitHub GraphQL API.</sub></p>
 
 ---
 
