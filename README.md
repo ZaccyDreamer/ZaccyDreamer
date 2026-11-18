@@ -43,7 +43,7 @@
 </pre></div>
 
 <p align="center">
-  I am a second-year University of Nairobi student interested in how software, electronics and control systems come together to solve practical problems. I learn by exploring concepts, building prototypes and documenting what I discover.
+Just Interested in software, electronics and control systems coming  together to solve practical problems. I learn by exploring concepts, building prototypes and documenting what I discover.
 </p>
 
 <p align="center"><b>⚡ Build systems that solve real-world problems — not just code that compiles.</b></p>
