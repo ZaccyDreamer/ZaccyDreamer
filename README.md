@@ -129,7 +129,7 @@ Just Interested in software, electronics and how control systems come  together 
 
 <p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/languages.svg" alt="Most-used languages by byte share across ZaccyDreamer's public, non-fork repositories" width="100%" /></p>
 
-<p align="center"><sub>The grade follows the <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">GitHub Readme Stats rank formula</a>: weighted exponential CDFs for commits, pull requests, issues and reviews, plus log-normal approximations for stars and followers. The circle shows 100 minus the formula's rank percentile; repositories contributed to are shown as a separate statistic. Contribution totals and streaks use GitHub's contribution calendar. Language shares use byte totals from owned, public, non-fork repositories. These cards refresh daily from the GitHub GraphQL API.</sub></p>
+<p align="center"><sub>The grade follows the <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">GitHub Readme Stats rank formula</a>: . These cards refresh daily from the GitHub GraphQL API.</sub></p>
 
 ---
 
