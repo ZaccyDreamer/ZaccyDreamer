@@ -102,19 +102,14 @@ Just Interested in software, electronics and how control systems come  together 
 
 ---
 
-<h2 align="center">🎓 EDUCATION &amp; LEADERSHIP</h2>
-
-<p align="center">
-  <b>University of Nairobi</b><br />
-  Bachelor of Science in Microprocessor Technology, Control and Instrumentation<br />
-  <b>Second year</b>
-</p>
+<h2 align="center">🎓 ED; LEADERSHIP</h2>
 
 <p align="center"><b>University of Nairobi Microprocessor Technology Association (UNMTA)</b><br />
-  First-Year Representative · Secretary-General
+  1.First-Year Representative
+  2.Secretary-General
 </p>
 
-<p align="center"><sub>Verified certifications, workshops and technical-event milestones will be added as they are completed.</sub></p>
+<p align="center"><sub>Verified certifications, workshops and technical-event MILESTONE on my LinkedIn.☺️</sub></p>
 
 ---
 
