@@ -133,22 +133,36 @@ def fetch_history(token: str, start: date, end: date) -> tuple[dict[date, int], 
     return days, reviews
 
 
-def streaks(days: dict[date, int], today: date) -> tuple[int, int]:
+def streaks(days: dict[date, int], today: date) -> tuple[int, date | None, date | None, int, date | None, date | None]:
     active = sorted(day for day, count in days.items() if count > 0)
     longest = 0
     run = 0
     previous = None
+    longest_start = longest_end = None
+    run_start = None
     for day in active:
-        run = run + 1 if previous and day == previous + timedelta(days=1) else 1
-        longest = max(longest, run)
+        if previous and day == previous + timedelta(days=1):
+            run += 1
+        else:
+            run = 1
+            run_start = day
+        if run > longest:
+            longest = run
+            longest_start, longest_end = run_start, day
         previous = day
 
+    current_end = today if days.get(today, 0) > 0 else today - timedelta(days=1)
     current = 0
-    day = today if days.get(today, 0) > 0 else today - timedelta(days=1)
+    day = current_end
     while days.get(day, 0) > 0:
         current += 1
         day -= timedelta(days=1)
-    return current, longest
+    current_start = current_end - timedelta(days=current - 1) if current else None
+    return current, current_start, current_end if current else None, longest, longest_start, longest_end
+
+
+def display_date(day: date | None) -> str:
+    return f"{day.strftime('%b')} {day.day}, {day.year}" if day else "No active streak"
 
 
 def grade(stars: int, commits: int, prs: int, issues: int, reviews: int, followers: int) -> tuple[str, float, float]:
@@ -189,7 +203,7 @@ def card_shell(width: int, height: int, body: str, defs: str = "") -> str:
 def performance_card(stats: dict, updated: str) -> str:
     level, percentile, score = stats["grade"]
     body = [
-        svg_text(34, 40, "GITHUB PERFORMANCE", 17, CYAN, 700),
+        svg_text(34, 40, "GITHUB PERFORMANCE", 20, CYAN, 700),
         svg_text(34, 70, USERNAME, 15, MUTED, 600),
     ]
     metrics = [
@@ -206,8 +220,8 @@ def performance_card(stats: dict, updated: str) -> str:
         col, row = index % 3, index // 3
         x, y = x_positions[col], y_positions[row]
         body.extend([
-            svg_text(x, y, label, 11, MUTED, 600),
-            svg_text(x, y + 37, f"{value:,}", 25, TEXT, 700),
+            svg_text(x, y, label, 13, MUTED, 600),
+            svg_text(x, y + 39, f"{value:,}", 29, TEXT, 700),
         ])
 
     cx, cy, radius = 891, 151, 54
@@ -218,32 +232,40 @@ def performance_card(stats: dict, updated: str) -> str:
         f'stroke-linecap="round" stroke-dasharray="{circumference * score / 100:.2f} {circumference:.2f}" '
         f'transform="rotate(-90 {cx} {cy})"/>',
         svg_text(cx, cy - 10, "GRADE", 11, MUTED, 700, "middle"),
-        svg_text(cx, cy + 24, level, 33, TEXT, 800, "middle"),
-        svg_text(cx, cy + 83, f"{score:.0f} / 100", 13, CYAN, 700, "middle"),
-        svg_text(34, 285, "GitHub Readme Stats rank method · circle shows activity score · profile-visible contribution data", 11, MUTED),
-        svg_text(1026, 285, f"UPDATED {updated}", 10, MUTED, 500, "end"),
+        svg_text(cx, cy + 24, level, 39, TEXT, 800, "middle"),
+        svg_text(cx, cy + 83, f"{score:.0f} / 100", 16, CYAN, 700, "middle"),
+        svg_text(34, 285, "GitHub Readme Stats rank method · circle shows activity score · profile-visible contribution data", 12, MUTED),
+        svg_text(1026, 285, f"UPDATED {updated}", 11, MUTED, 500, "end"),
     ])
     return card_shell(1040, 310, "".join(body), '<defs><linearGradient id="grade"><stop stop-color="#00F5FF"/><stop offset="1" stop-color="#9B8CFF"/></linearGradient></defs>')
 
 
-def contribution_card(total: int, current: int, longest: int) -> str:
+def contribution_card(total: int, current: int, current_start: date | None, current_end: date | None,
+                      longest: int, longest_start: date | None, longest_end: date | None,
+                      period_start: date, period_end: date) -> str:
+    total_range = f"{display_date(period_start)} – Present"
+    current_range = (f"{display_date(current_start)} – {display_date(current_end)}"
+                     if current_start else "No active streak")
+    longest_range = (f"{display_date(longest_start)} – {display_date(longest_end)}"
+                     if longest_start else "No recorded streak")
     values = [
-        ("TOTAL CONTRIBUTIONS", total, "LAST 365 DAYS"),
-        ("CURRENT STREAK", current, "CONSECUTIVE DAYS"),
-        ("LONGEST STREAK", longest, "ALL-TIME RECORD · DAYS"),
+        ("TOTAL CONTRIBUTIONS", f"{total:,}", "LAST 365 DAYS", total_range),
+        ("CURRENT STREAK", f"{current} days", "CONSECUTIVE DAYS", current_range),
+        ("LONGEST STREAK", f"{longest} days", "ALL-TIME RECORD", longest_range),
     ]
-    body = [svg_text(34, 40, "CONTRIBUTIONS & STREAK", 17, CYAN, 700)]
-    for index, (label, value, note) in enumerate(values):
+    body = [svg_text(34, 40, "CONTRIBUTIONS & STREAK", 20, CYAN, 700)]
+    for index, (label, value, note, dates) in enumerate(values):
         left = index * 346
         center = left + 173
         if index:
-            body.append(f'<line x1="{left}" y1="61" x2="{left}" y2="174" stroke="{BORDER}"/>')
+            body.append(f'<line x1="{left}" y1="61" x2="{left}" y2="214" stroke="{BORDER}"/>')
         body.extend([
-            svg_text(center, 84, label, 12, MUTED, 700, "middle"),
-            svg_text(center, 137, f"{value:,}", 39, TEXT, 750, "middle"),
-            svg_text(center, 163, note, 10, PURPLE, 600, "middle"),
+            svg_text(center, 83, label, 14, MUTED, 700, "middle"),
+            svg_text(center, 131, value, 41, TEXT, 750, "middle"),
+            svg_text(center, 155, note, 12, PURPLE, 600, "middle"),
+            svg_text(center, 190, dates, 13, TEXT, 600, "middle"),
         ])
-    return card_shell(1040, 190, "".join(body))
+    return card_shell(1040, 230, "".join(body))
 
 
 def languages_card(languages: list[dict], all_languages: list[dict], updated: str) -> str:
@@ -259,8 +281,8 @@ def languages_card(languages: list[dict], all_languages: list[dict], updated: st
 
     bar_x, bar_y, bar_width, bar_height = 34, 92, 972, 18
     body = [
-        svg_text(34, 40, "MOST USED LANGUAGES", 17, CYAN, 700),
-        svg_text(34, 64, "Public, non-fork repositories · share of detected source bytes", 12, MUTED),
+        svg_text(34, 40, "MOST USED LANGUAGES", 20, CYAN, 700),
+        svg_text(34, 66, "Public, non-fork repositories · share of detected source bytes", 14, MUTED),
         f'<clipPath id="bar"><rect x="{bar_x}" y="{bar_y}" width="{bar_width}" height="{bar_height}" rx="9"/></clipPath>',
     ]
     offset = 0.0
@@ -280,8 +302,8 @@ def languages_card(languages: list[dict], all_languages: list[dict], updated: st
         percent = 100 * item["size"] / all_bytes if all_bytes else 0
         body.extend([
             f'<circle cx="{x + 6}" cy="{y - 4}" r="5" fill="{color}"/>',
-            svg_text(x + 20, y, item["name"], 13, TEXT, 600),
-            svg_text(x + 448, y, f"{percent:.1f}%", 13, color, 700, "end"),
+            svg_text(x + 20, y, item["name"], 15, TEXT, 600),
+            svg_text(x + 448, y, f"{percent:.1f}%", 16, color, 700, "end"),
         ])
     body.append(svg_text(1006, 286, f"UPDATED {updated}", 10, MUTED, 500, "end"))
     return card_shell(1040, 300, "".join(body))
@@ -310,7 +332,7 @@ def collect(token: str) -> dict:
     all_days, total_reviews = fetch_history(
         token, date.fromisoformat(user["createdAt"][:10]), today
     )
-    current_streak, longest_streak = streaks(all_days, today)
+    current_streak, current_start, current_end, longest_streak, longest_start, longest_end = streaks(all_days, today)
 
     language_sizes: dict[str, dict] = {}
     stars = 0
@@ -348,7 +370,8 @@ def collect(token: str) -> dict:
     )
     return {
         "stats": stats,
-        "contributions": (total_contributions, current_streak, longest_streak),
+        "contributions": (total_contributions, current_streak, current_start, current_end,
+                          longest_streak, longest_start, longest_end, year_start, today),
         "languages": languages,
         "updated": today.isoformat(),
     }

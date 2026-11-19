@@ -126,11 +126,11 @@ Just Interested in software, electronics and control systems coming  together to
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h1 align="center">📊 GITHUB ANALYTICS</h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/performance.svg" alt="GitHub performance card for ZaccyDreamer with stars, commits from the last 365 days, public pull requests and issues, repositories contributed to, followers, and a calculated grade" width="100%" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/contributions.svg" alt="ZaccyDreamer's actual GitHub contributions in the last 365 days, current consecutive-day streak, and longest streak" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/contributions.svg" alt="ZaccyDreamer's actual GitHub contributions in the last 365 days with the covered date range, current streak dates, and longest streak dates" width="100%" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ZaccyDreamer/ZaccyDreamer/main/assets/github-analytics/languages.svg" alt="Most-used languages by byte share across ZaccyDreamer's public, non-fork repositories" width="100%" /></p>
 
