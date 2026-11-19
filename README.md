@@ -29,21 +29,21 @@
 
 <div align="center"><pre>
 ┌────────────────────────────────────┐
-│ Name       : Zacc Munuhe           │
-│ Alias      : ZaccyDreamer          │
-│ Location   : Kenya                 │
+│ Name     💪💪💪 : Zacc Munuhe           │
+│ Nickname 🙂     : ZaccyDreamer          │
+│ Location   : Nairobi CBD,Kenya                 │
 │ Institution: University of Nairobi │
 │ Programme  : BSc Microprocessor    │
 │              Technology, Control   │
 │              and Instrumentation   │
-│ Level      : Second year           │
+│ current Level  : Second year           │
 │ Status     : Learning • Building   │
 │ Focus      : Embedded • AI/ML      │
 └────────────────────────────────────┘
 </pre></div>
 
 <p align="center">
-Just Interested in software, electronics and control systems coming  together to solve practical problems. I learn by exploring concepts, building prototypes and documenting what I discover.
+Just Interested in software, electronics and how control systems come  together to solve practical problems. I learn by exploring concepts, building prototypes and documenting what I discover.
 </p>
 
 <p align="center"><b>⚡ Build systems that solve real-world problems — not just code that compiles.</b></p>
@@ -98,7 +98,7 @@ Just Interested in software, electronics and control systems coming  together to
   <img src="https://img.shields.io/badge/Full--Stack%20Development-0B7285?style=flat-square&logoColor=white" alt="Full-stack software development" />
 </p>
 
-<p align="center"><sub>Focus areas reflect coursework, project work and active learning; they are not professional certifications or proficiency ratings.</sub></p>
+<p align="center"><sub>My Focus areas reflect coursework, project work and active learning; they are not professional certifications or proficiency ratings.</sub></p>
 
 ---
 
