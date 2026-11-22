@@ -2,8 +2,21 @@ name: Update GitHub analytics cards
 
 on:
   schedule:
-    - cron: "17 4 * * *"
+    # Recheck several times a day so GitHub's contribution processing delay
+    # does not leave yesterday's data displayed for a full day.
+    - cron: "17 */5 * * *"
+  push:
+    branches: [main]
+  issues:
+    types: [opened, closed, reopened]
+  pull_request:
+    types: [opened, closed, reopened, synchronize]
+  create:
   workflow_dispatch:
+
+concurrency:
+  group: github-analytics
+  cancel-in-progress: false
 
 permissions:
   contents: write

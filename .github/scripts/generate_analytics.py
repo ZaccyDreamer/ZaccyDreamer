@@ -316,7 +316,10 @@ def collect(token: str) -> dict:
     summary = graphql(token, SUMMARY_QUERY, {
         "login": USERNAME,
         "from": iso_start(year_start),
-        "to": now.isoformat().replace("+00:00", "Z"),
+        # Query the complete GitHub calendar day. Passing the current instant
+        # can truncate the end day when GitHub assigns activity by its own
+        # date boundary.
+        "to": iso_end(today),
         "prQuery": f"author:{USERNAME} is:public type:pr",
         "issueQuery": f"author:{USERNAME} is:public type:issue",
     })
@@ -327,11 +330,22 @@ def collect(token: str) -> dict:
     year_days = calendar_days(
         user["contributionsCollection"]["contributionCalendar"], year_start, today
     )
+    if len(year_days) != 365:
+        raise RuntimeError(
+            f"GitHub returned {len(year_days)} contribution days for the requested "
+            "365-day range; refusing to publish incomplete analytics"
+        )
     total_contributions = sum(year_days.values())
 
     all_days, total_reviews = fetch_history(
         token, date.fromisoformat(user["createdAt"][:10]), today
     )
+    expected_history_days = (today - date.fromisoformat(user["createdAt"][:10])).days + 1
+    if len(all_days) != expected_history_days:
+        raise RuntimeError(
+            f"GitHub returned {len(all_days)} historical contribution days; expected "
+            f"{expected_history_days}; refusing to publish incomplete streaks"
+        )
     current_streak, current_start, current_end, longest_streak, longest_start, longest_end = streaks(all_days, today)
 
     language_sizes: dict[str, dict] = {}
